@@ -1,5 +1,4 @@
 # Environment
-.github
 .env
 .env.*
 !.env.example
